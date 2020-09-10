@@ -12,4 +12,4 @@ This compiler is implemented in the Linux console. The steps are simple:
   
 Here are video links depciting process and execution examples:
   1. https://www.loom.com/share/00efe6218d804c5e85c65370be17ebe4
-  2. https://www.loom.com/share/f9da283054894f529f07c616d43c8d18
+  2. https://www.loom.com/share/6b35ae2ac57b4e668e8bb0b56f1ca096
